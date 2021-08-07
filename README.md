@@ -1,37 +1,15 @@
-#### Build-OpenWrt
-[1]: https://img.shields.io/badge/license-GPLV2-brightgreen.svg
-[2]: /LICENSE
-[3]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
-[4]: https://github.com/kenzok78/Build-OpenWrt/pulls
-[5]: https://img.shields.io/badge/Issues-welcome-brightgreen.svg
-[6]: https://github.com/kenzok78/Build-OpenWrt/issues/new
-[7]: https://img.shields.io/github/v/release/hyird/Action-Openwrt
-[8]: https://github.com/kenzok78/Build-OpenWrt/releases
-[10]: https://img.shields.io/badge/Contact-telegram-blue
-[11]: https://t.me/joinchat/JjxmyRZZXJWb74I-sCrryA
-[12]: https://github.com/kenzok78/Build-OpenWrt/workflows/autobuild/badge.svg
-[13]: https://github.com/kenzok78/Build-OpenWrt/actions
-
-[![license][1]][2]
-[![GitHub Stars](https://img.shields.io/github/stars/kenzok78/Build-OpenWrt.svg?style=flat-square&label=Stars)](https://github.com/kenzok78/Build-OpenWrt/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/kenzok78/Build-OpenWrt.svg?style=flat-square&label=Forks)](https://github.com/kenzok78/Build-OpenWrt)
-[![PRs Welcome][3]][4]
-[![Issue Welcome][5]][6]
-[![AutoBuild][12]][13]
-
-<a href="https://t.me/joinchat/JjxmyRZZXJWb74I-sCrryA" target="_blank">Telegram</a>
+#### 自动化编译OpenWRT路由固件
 
 #### 源码来源：
 [![garypang13](https://img.shields.io/badge/autoBuild-garypang13-red.svg?style=flat&logo=appveyor)](https://github.com/garypang13/OpenWrt)
- [![Lienol](https://img.shields.io/badge/passwall-openwrt-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/xiaorouji/openwrt-passwall) 
+[![Lienol](https://img.shields.io/badge/passwall-openwrt-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/xiaorouji/openwrt-passwall) 
 [![immortalwrt](https://img.shields.io/badge/immortalwrt-openwrt-orange.svg?style=flat&logo=appveyor)](https://github.com/immortalwrt/immortalwrt) 
-[![Lean](https://img.shields.io/badge/package-Lean-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/coolsnowwolf/lede) 
 [![P3TERX](https://img.shields.io/badge/Actions-P3TERX-success.svg?style=flat&logo=appveyor)](https://github.com/P3TERX/Actions-OpenWrt)
 
 
 #### 固件下载:
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/kenzok78/Build-OpenWrt?style=for-the-badge&label=Download)](https://github.com/kenzok78/Build-OpenWrt/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/zook-sze/Build-OpenWrt?style=for-the-badge&label=Download)](https://github.com/zook-sze/Build-OpenWrt/releases/latest)
 
 #### 特色:
 
